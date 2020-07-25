@@ -8,7 +8,7 @@ The prediction is based on several inverted yield curves being observed during A
 
 Since the US economy accounts for almost 1/4 global GDP (2016), other economies around the world are heavily affected by what's happened in the US to a great extent. Thus, predicting US recessions is very important for the US as well as other countries in responding to social, economic and even political uncertainties caused by the recessions. 
 
-Full [report](https://curiousduke.blog/2020/07/13/visualising-predictions-for-the-us-recessions-with-the-yield-curves-on-the-tableau-public/#more-1089) & Tableau [dashboard](https://public.tableau.com/profile/duc.le2891#!/vizhome/InvertedYieldCurvevsRecession/mainstory?publish=yes)
+Full [report](https://curiousduke.blog/2020/07/13/visualising-predictions-for-the-us-recessions-with-the-yield-curves-on-the-tableau-public/) & Tableau [dashboard](https://public.tableau.com/profile/duc.le2891#!/vizhome/InvertedYieldCurvevsRecession/mainstory?publish=yes)
 
 
 ## License
